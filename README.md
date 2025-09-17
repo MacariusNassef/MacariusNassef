@@ -46,9 +46,7 @@
 ---
 
 ### 📫 Connect With Me
-
-- [GitHub Projects](https://github.com/MakariosNassef?tab=repositories)
-- [LinkedIn](https://www.linkedin.com/in/macarius-nassef/)
-- **Email:** macarius.nassef@gmail.com
-
+- <a href="https://github.com/MacariusNassef?tab=repositories" target="_blank">GitHub Projects</a>
+- <a href="https://www.linkedin.com/in/macarius-nassef/" target="_blank">LinkedIn</a>
+- <a href="mailto:macarius.nassef@gmail.com" target="_blank">Email: macarius.nassef@gmail.com</a>
 ---
